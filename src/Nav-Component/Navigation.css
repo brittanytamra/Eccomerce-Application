@@ -1,0 +1,67 @@
+
+.header {
+    background-image: url("../images/main-image-1.jpeg");
+    background-size: cover;  
+img{
+  width: 100vw;
+    height:54vw;
+    width:100%;
+}
+  
+
+/* } */
+
+
+.logo img {
+    margin-top:5%;
+    width: 130px;
+    margin-left: 15%;
+}
+
+.navigation {
+    margin-top: -40px;
+    margin-left: 30%;
+    
+   
+
+}
+
+li {
+    list-style: none;
+    padding-left: 65px;
+    font-size: 12px;
+    
+    
+   
+}
+
+ul {
+    display: flex;
+    
+    
+}
+
+li a {
+    list-style: none;
+    color: white;
+    text-decoration: none;   
+}
+
+li a:hover {
+    text-decoration: underline;
+    color:orange;
+    width: 10px;
+}
+
+.icons {
+    margin-left: 10%;
+}
+
+.fa-shopping-cart{
+ color: white;
+
+}
+
+.fa-search {
+    color: white;
+}
